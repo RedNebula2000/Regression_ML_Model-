@@ -32,3 +32,9 @@ Limitations: The regression model achieved an accuracy of 86%. However, there we
 Next Steps: There are several ways to advance this research project. A data analyst could construct a comparative linear regression model to predict a movie's precise numeric rating, using this model as a base. Additionally, an adding a web scraping project to acquire additional movie data, such as budgets of films, to gain deeper insights into the factors influencing a movie's ratings. Further analysis could be performed to formulate a composite target variable, encompassing factors like votes cast, gross profit, budget, etc., instead of relying solely on an already established rating.
 
 Expected Benefits: In terms of implementing this rating model system for predicting ratings in the cinema industry, it's important to consider the historical context. The cinema rating duo, Siskel and Ebert, set the standard until 1999. Their ratings and opinions were grounded in their personal experiences with the movies they reviewed. Their success stemmed from their ability to provide contrasting perspectives and critiques based on their individual life experiences and opinions. This machine learning prediction model is designed to replicate the tasks performed by human critics. It aims to demonstrate to the cinema industry which insights and indicators have the most significant impact on ratings.
+
+Sources: 
+
+https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+https://www.kaggle.com/datasets/ashutoshdevpura/imdb-top-10000-movies-updated-august-2023
